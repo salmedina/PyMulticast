@@ -1,0 +1,4 @@
+#Multicast application config
+senderPort: 1501
+mcastIP: 224.0.1.60
+mcastPort: 10000
